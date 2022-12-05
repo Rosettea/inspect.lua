@@ -24,5 +24,5 @@ install -Dm644 inspect.lua -t %{buildroot}/usr/share/hilbish/libs/inspect/
 
 %files
 %doc README.md
-%license LICENSE
-/usr/share/hilbish/libs/inspect/init.lua
+%license MIT-LICENSE.txt
+/usr/share/hilbish/libs/inspect/inspect.lua
